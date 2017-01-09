@@ -1,5 +1,11 @@
 Russian.php	-	10.01.2017
 
 lan_comment.php	-	10.01.2017
-	define("COMLAN_TYPE_6", "Bugtrack"); // Перевод ?
+	define("COMLAN_TYPE_6", "Bugtrack"); // РџРµСЂРµРІРѕРґ ?
+
+lan_contact.php
+
+lan_date.php
+
+lan_email.php
 
