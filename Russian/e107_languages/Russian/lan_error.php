@@ -4,13 +4,13 @@
 |        e107 website content management system Russian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/07/30 02:30:40
+|        Last Modified: 2017/01/10 23:00:00
 |
 |        $Author: admin $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Ошибка");
+define("LAN_ERROR_TITLE", "Опаньки!");
 define("LAN_ERROR_1", "Ошибка 401 - Ошибка аутентификации");
 define("LAN_ERROR_2", "URL-адрес, который вы запрашиваете требует правильное имя пользователя и пароль. Вы ввели неправильное имя пользователя/пароль, или ваш браузер не поддерживает эту функцию.");
 define("LAN_ERROR_3", "Пожалуйста, сообщите администратору ссылающейся страницы, если вы считаете, что эта ошибка страницы было показано по ошибке.");

@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/01/10 23:00:00
+|
+|        $Author: Administrator $
++---------------------------------------------------------------+
+*/
 
 define("LANCONTACT_00", "Свяжитесь с нами");
 define("LANCONTACT_01", "Контактная информация");
@@ -21,3 +27,10 @@ define("LANCONTACT_13", "Пожалуйста, укажите тему.");
 define("LANCONTACT_14", "Отправьте сообщение для:");
 define("LANCONTACT_15", "Введен неправильный код");
 define("LANCONTACT_16", "Вы должны быть [регистрации] и подписали в использовать эту форму.");
+define("LANCONTACT_17", "Введите Ваше имя.");
+define("LANCONTACT_18", "Введите e-mail адрес.");
+define("LANCONTACT_19", "Пожалуйста, введите тему письма.");
+define("LANCONTACT_20", "Пожалуйста, введите ваше сообщение для нас.");
+
+
+?>

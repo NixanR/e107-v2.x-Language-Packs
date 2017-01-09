@@ -4,9 +4,9 @@
 |        e107 website content management system Russian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/08/31 17:51:08
+|        Last Modified: 2017/01/10 23:00:00
 |
-|        $Author: admin $
+|        $Author: NixanR $
 +---------------------------------------------------------------+
 */
 

@@ -4,24 +4,26 @@
 |        e107 website content management system Russian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/01/10 03:15:38
+|        Last Modified: 2017/01/10 23:00:00
 |
-|        $Author: admin $
+|        $Author: NixanR $
 +---------------------------------------------------------------+
 */
 define("COMLAN_0", "[заблокировано администратором]");
-define("COMLAN_1", "Разблокировать");
-define("COMLAN_2", "Блок");
+define("COMLAN_1", "Разблокировано");
+define("COMLAN_2", "Заблокировано");
+
 define("COMLAN_4", "Информация");
 define("COMLAN_5", "Комментарии...");
-define("COMLAN_6", "Вы должны войти чтобы сделать комментарии на этот сайт - пожалуйста, войдите или если вы не зарегистрированы, нажмите кнопку");
+define("COMLAN_6", "Комментировать, могут только зарегистрированные пользователи - пожалуйста, войдите или зарегистрируйтесь.");
 define("COMLAN_7", "Главный администратор");
 define("COMLAN_8", "Комментарий");
 define("COMLAN_9", "Отправить комментарий");
 define("COMLAN_10", "Администратор");
-define("COMLAN_11", "Не смог ввести свой комментарий в базу данных - введите выходя из любых нестандартных символов.");
+define("COMLAN_11", "Не удалось сохранить ваш комментарий в базе данных - попробуйте удалить нестандартные символы.");
 define("COMLAN_12", "Пользователь");
 define("COMLAN_16", "Имя пользователя:");
+
 define("COMLAN_100", "Новости");
 define("COMLAN_101", "Опрос");
 define("COMLAN_102", "Отвечая на вопрос:");
@@ -31,47 +33,52 @@ define("COMLAN_105", "Содержание");
 define("COMLAN_106", "Скачать");
 define("COMLAN_145", "Зарегистрировано:");
 define("COMLAN_194", "Гость");
-define("COMLAN_195", "Зарегистрированный член");
-define("COMLAN_310", "Не удается принять пост, как это имя пользователя зарегистрировано - если это ваше имя пользователя войти в должность.");
-define("COMLAN_312", "Дублировать пост - не может согласиться.");
+define("COMLAN_195", "Зарегистрирован");
+define("COMLAN_310", "Невозможно принять сообщение, так как имя пользователя зарегистрировано. Если это ваше имя, войдите в систему, чтобы отправить сообщение.");
+define("COMLAN_312", "Дубликат сообщения - неприемлемо.");
 define("COMLAN_313", "Местоположение");
 define("COMLAN_314", "Модерация комментариев");
 define("COMLAN_315", "Обратные ссылки");
-define("COMLAN_316", "Нет уведомлений для этого newspost.");
-define("COMLAN_317", "Умеренные trackbacks");
+define("COMLAN_316", "Нет обратных ссылок для этого сообщения.");
+define("COMLAN_317", "Модерация обратных ссылок");
 define("COMLAN_318", "Редактировать комментарий");
-define("COMLAN_319", "редактировать");
-define("COMLAN_320", "Обновление комментарий");
-define("COMLAN_321", "Здесь");
+define("COMLAN_319", "отредактировано");
+define("COMLAN_320", "Обновить комментарий");
+define("COMLAN_321", "здесь");
 define("COMLAN_322", "Подписаться");
 define("COMLAN_323", "Ошибка!");
 define("COMLAN_324", "Тема");
-define("COMLAN_325", "Re:");
-define("COMLAN_326", "Ответ на этот");
+define("COMLAN_325", ":Re:");
+define("COMLAN_326", "Ответить на это");
+
 define("COMLAN_328", "Комментарии заблокирован");
 define("COMLAN_329", "Несанкционированное");
 define("COMLAN_330", "IP АДРЕС:");
-define("COMLAN_331", "Ожидает утверждения");
+define("COMLAN_331", "Ожидает подтверждения");
 define("COMLAN_332", "Не удается удалить комментарий");
 define("COMLAN_333", "Комментарий утвержден");
-define("COMLAN_334", "Не смог утвердить комментарий");
+define("COMLAN_334", "Не удалось утвердить комментарий");
 define("COMLAN_335", "Утвержден");
 define("COMLAN_336", "Пожалуйста, напишите что-то сначала.");
 define("COMLAN_337", "Успешно обновлены.");
+
 define("COMLAN_400", "утвержден");
 define("COMLAN_401", "заблокирован");
 define("COMLAN_402", "Ожидание");
+
 define("COMLAN_403", "Оставить сообщение...");
 define("COMLAN_404", "Одобрить");
+
 define("COMLAN_TYPE_1", "Новости");
 define("COMLAN_TYPE_2", "Скачать");
-define("COMLAN_TYPE_3", "Вопросы и ответы");
+define("COMLAN_TYPE_3", "ЧаВО");
 define("COMLAN_TYPE_4", "Опрос");
 define("COMLAN_TYPE_5", "документы");
-define("COMLAN_TYPE_6", "Bugtrack");
+define("COMLAN_TYPE_6", "Bugtrack"); // Перевод ?
 define("COMLAN_TYPE_7", "идеи");
 define("COMLAN_TYPE_8", "UserProfile");
 define("COMLAN_TYPE_PAGE", "Содержание");
+
 define("COMLAN_500", "Пожалуйста [войдите], чтобы оставить комментарий.");
 define("COMLAN_501", "Если вы еще не зарегистрированы, вы можете [нажать сюда для регистрации].");
 

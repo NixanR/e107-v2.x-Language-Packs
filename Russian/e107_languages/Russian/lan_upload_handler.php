@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/01/10 23:00:00
+|
+|        $Author: NixanR $
++---------------------------------------------------------------+
+*/
 
 define("LANUPLOAD_1", "Тип файла");
 define("LANUPLOAD_2", "не допускается и была удалена.");
