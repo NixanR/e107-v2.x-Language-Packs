@@ -12,3 +12,9 @@ lan_email.php
 lan_error.php
 
 lan_fpw.php
+
+lan_installer.php
+	define("LANINS_003", "1"); // Исправлено "<1>" из-за передупреждения 
+	об идентичности оригинала и перевода.
+	
+	
