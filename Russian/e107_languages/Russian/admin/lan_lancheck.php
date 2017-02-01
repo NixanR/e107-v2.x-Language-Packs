@@ -9,24 +9,22 @@
 |        $Author: admin $
 +---------------------------------------------------------------+
 */
-
 define("LAN_CHECK_2", "Проверить");
 define("LAN_CHECK_3", "Проверка");
 define("LAN_CHECK_4", "Отсутствует файл!");
 define("LAN_CHECK_5", "Выражение отсутствует!");
-define("LAN_CHECK_15", "Недопустимые символы или пробелы, нашли до [x] или после [y]");
+define("LAN_CHECK_15", "Недопустимые символы или пробелы, найдены до [x] или после [y]");
 define("LAN_CHECK_16", "Исходный файл");
 define("LAN_CHECK_17", "Ошибка записи при сохранение файла.");
 define("LAN_CHECK_18", "Языковые файлы в стандартный формат, не доступных для этого плагина/темы.");
-define("LAN_CHECK_19", "Не-UTF-8 символов!");
+define("LAN_CHECK_19", "Символы не в UTF-8!");
 define("LAN_CHECK_20", "Создание языкового пакета");
 define("LAN_CHECK_21", "Проверить снова");
-define("LAN_CHECK_22", "Тема");
 define("LAN_CHECK_23", "Найденные ошибки");
-define("LAN_CHECK_24", "Резюме");
-define("LAN_CHECK_25", "Темы");
+define("LAN_CHECK_26", "Основные");
 define("LAN_CHECK_PAGE_TITLE", "Языки");
 define("LAN_CHECK_27", "Количество найденных ошибок пакет языка");
+define("LAN_CHECK_28", "идентичный");
 define("LANG_LAN_23", "Создание языкового пакета (zip)");
 define("LANG_LAN_30", "Дата выпуска");
 define("LANG_LAN_31", "Совместимость");
